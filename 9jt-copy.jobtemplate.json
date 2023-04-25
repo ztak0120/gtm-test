@@ -1,0 +1,15 @@
+{
+  "version" : "1.5.4",
+  "executable" : {
+    "TYPE" : "ShellScriptExecutable",
+    "script" : "df",
+    "v1Compatible" : false
+  },
+  "skipIfNoAdmissionForOrderDay" : false,
+  "parallelism" : 1,
+  "graceTimeout" : 1,
+  "failOnErrWritten" : false,
+  "warnOnErrWritten" : false,
+  "arguments" : { },
+  "hash" : "0df46d7edce57bcb00ae90ca5afc3f2ce473d1c388a4cfde0232cb4e57b52f3b"
+}

@@ -1,0 +1,8 @@
+{
+  "TYPE" : "FileWatch",
+  "version" : "1.5.4",
+  "workflowName" : "1w-copy",
+  "agentName" : "primaryAgent",
+  "directoryExpr" : "\"sd\"",
+  "timeZone" : "UTC"
+}
