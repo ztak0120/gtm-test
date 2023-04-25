@@ -1,0 +1,15 @@
+{
+  "version" : "1.5.4",
+  "executable" : {
+    "TYPE" : "ShellScriptExecutable",
+    "script" : "echo \"Hello\"",
+    "v1Compatible" : false
+  },
+  "skipIfNoAdmissionForOrderDay" : false,
+  "parallelism" : 1,
+  "graceTimeout" : 1,
+  "failOnErrWritten" : false,
+  "warnOnErrWritten" : false,
+  "arguments" : { },
+  "hash" : "d06d719803cf5efff4a5cdc0687e57c604f5d0cc6af960186d12e223ceda2478"
+}
