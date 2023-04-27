@@ -1,0 +1,13 @@
+{
+  "version" : "1.6.0",
+  "type" : "WORKINGDAYSCALENDAR",
+  "from" : "2023-04-27",
+  "to" : "2023-04-30",
+  "includes" : {
+    "weekdays" : [ {
+      "from" : "2023-04-27",
+      "to" : "2023-04-30",
+      "days" : [ 0, 1, 2, 3, 4, 5, 6 ]
+    } ]
+  }
+}

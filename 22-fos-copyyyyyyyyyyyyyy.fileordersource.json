@@ -1,0 +1,9 @@
+{
+  "TYPE" : "FileWatch",
+  "version" : "1.6.0",
+  "workflowName" : "11-git-wrk-copyyyyyyyyyyyyyy",
+  "agentName" : "primaryAgent",
+  "directoryExpr" : "\"c\"",
+  "pattern" : "sd",
+  "timeZone" : "UTC"
+}
