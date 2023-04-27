@@ -1,0 +1,15 @@
+{
+  "version" : "1.5.4",
+  "workflowNames" : [ "1-git-wrk-copy" ],
+  "submitOrderToControllerWhenPlanned" : false,
+  "planOrderAutomatically" : false,
+  "calendars" : [ {
+    "calendarName" : "8-cal-copy",
+    "timeZone" : "Asia/Calcutta",
+    "periods" : [ {
+      "singleStart" : "00:00:00",
+      "whenHoliday" : "SUPPRESS"
+    } ]
+  } ],
+  "orderParameterisations" : [ ]
+}
